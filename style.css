@@ -1,0 +1,10 @@
+body{
+  background-color: #ccc;
+}
+img{
+  
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
+  transition: all 0.5 ease;
+}

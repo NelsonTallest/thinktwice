@@ -1,0 +1,27 @@
+#btnlogin{  
+  
+font-family: sans-serif;
+         border: none;
+         padding: 15px 30px;
+background-color: rgb(23, 52, 89);
+}
+
+#sign-up{
+  
+font-family: sans-serif;
+         border: none;
+         padding: 15px 30px;
+         color: f8f8f9;
+background-color: rgb(23, 52, 89);
+}
+
+body{
+  
+  background-color:  c8c8c8; 
+  
+  
+}
+img{
+  height: 20vh;
+  width: 40vh;
+}
